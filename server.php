@@ -5,7 +5,7 @@ $username = 'root';
 $password = '';
 
 
-// Autoload
+// Autoload (composer later)
 require_once('oauth2-server-php/src/OAuth2/Autoloader.php');
 OAuth2\Autoloader::register();
 
