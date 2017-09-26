@@ -17,7 +17,7 @@ if (empty($_POST)) {
           <label>Do You Authorize TestClient?</label><br />
           <input type="submit" name="authorized" value="yes">
           <input type="submit" name="authorized" value="no">
-        </form>');
+         </form>');
 }
 
 // print the authorization code if the user has authorized your client
